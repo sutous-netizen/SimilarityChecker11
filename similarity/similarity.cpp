@@ -11,4 +11,4 @@ public:
 		}
 		return 60;
 	}
-};
+};  
