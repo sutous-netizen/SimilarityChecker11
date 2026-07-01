@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SimilarityChecker/SimilarityChecker.vcxproj" Id="1917c0fe-4bf2-4e8a-b196-5aea95c55c64" />
+</Solution>
