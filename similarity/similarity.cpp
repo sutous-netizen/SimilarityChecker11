@@ -18,7 +18,6 @@ public:
 			result = (1 - gap / minLenth) * 60;
 			return static_cast<int>(result);
 		}
-		//return 60;
 	}
 private:
 	int length1;
